@@ -1,2 +1,3 @@
 - mpv seems to have issues playing the created files
 - the filenames are currently empty which leads to them passing all the tests
+- Readme needs some work
